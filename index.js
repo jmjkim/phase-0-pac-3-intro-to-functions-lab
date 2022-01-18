@@ -31,8 +31,8 @@ function sayHiToHeadphonedRoommate(string) {
         return "YES INDEED!"
     }
 
-    if (string === "Let's have dinner together!") {
+    if (string === "Let\'s have dinner together!") {
         return "I would love to!"
     }
 }
-sayHiToHeadphonedRoommate("Let's have dinner together!");
+sayHiToHeadphonedRoommate("Let\'s have dinner together!");
